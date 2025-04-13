@@ -160,7 +160,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I graduated in Physics from the National University of Engineering in Peru. Then, I moved to Brazil and got a Master's degree in Physics from the State University of Campinas (Unicamp) working on relativistic heavy-ion collisions. For the Ph.D., also in Physics, I got enrolled in the first joint Ph.D./cotutelle program between Unicamp and McGill University in Canada. I worked on new models of dark matter: asymmetric dark matter, heavy neutral leptons, and decaying dark matter. I also have experience in vacuum stability, 3-3-1 and B-L models, dark photons and indirect detection of dark matter.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
